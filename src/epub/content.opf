@@ -31,11 +31,13 @@
 		<dc:subject id="subject-1">Philosophy, Modern</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85100960</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">An introduction to radical empiricism and how it relates to the experienced world.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Originally given as the 1908 Hibbert Lectures, &lt;i&gt;A Pluralistic Universe&lt;/i&gt; provides an explanation of the philosophy known as “radical empiricism.” This theory rejects the certainty of the absolute, an academic idealism that holds that all existence is only the observable part of an all-encompassing entity that governs every detail in universe. Radical empiricism by contrast contends that while such an absolute may be possible, it is unprovable within the experiences of our finite lives and so has little practical value.&lt;/p&gt;
+			&lt;p&gt;Much like &lt;a href="https://standardebooks.org/ebooks/william-james"&gt;James’&lt;/a&gt; work on &lt;a href="https://standardebooks.org/ebooks/william-james/pragmatism"&gt;pragmatism&lt;/a&gt;, radical empiricism evaluates the truth of a statement based on experiences and observations that we can have. This view does not exclude religion, as that can be directly experienced, even if people may differ on exactly what the experience is. Anything that can be experienced must by definition exist and can be analyzed using radical empiricism.&lt;/p&gt;
+			&lt;p&gt;When these lectures were given, the academic consensus was in favor of some version of the absolute. James spends much of the lectures discussing and critiquing the ideas of other philosophers, in particular Hegel, Fetchner and &lt;a href="https://standardebooks.org/ebooks/henri-bergson"&gt;Bergson&lt;/a&gt;. He finds much to like in each of the works he discusses but finds them all incomplete in some way.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11984</dc:source>
