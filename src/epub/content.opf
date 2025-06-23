@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-james/a-pluralistic-universe</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-06-23T02:04:36Z</dc:date>
+		<meta property="dcterms:modified">2025-06-23T02:04:36Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,17 +33,17 @@
 		<meta property="term" refines="#subject-1">sh85100960</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">An introduction to radical empiricism and how it relates to the experienced world.</dc:description>
+		<dc:description id="description">A philosopher gives an introduction to radical empiricism and how it relates to the experienced world.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Originally given as the 1908 Hibbert Lectures, &lt;i&gt;A Pluralistic Universe&lt;/i&gt; provides an explanation of the philosophy known as “radical empiricism.” This theory rejects the certainty of the absolute, an academic idealism that holds that all existence is only the observable part of an all-encompassing entity that governs every detail in universe. Radical empiricism by contrast contends that while such an absolute may be possible, it is unprovable within the experiences of our finite lives and so has little practical value.&lt;/p&gt;
-			&lt;p&gt;Much like &lt;a href="https://standardebooks.org/ebooks/william-james"&gt;James’&lt;/a&gt; work on &lt;a href="https://standardebooks.org/ebooks/william-james/pragmatism"&gt;pragmatism&lt;/a&gt;, radical empiricism evaluates the truth of a statement based on experiences and observations that we can have. This view does not exclude religion, as that can be directly experienced, even if people may differ on exactly what the experience is. Anything that can be experienced must by definition exist and can be analyzed using radical empiricism.&lt;/p&gt;
-			&lt;p&gt;When these lectures were given, the academic consensus was in favor of some version of the absolute. James spends much of the lectures discussing and critiquing the ideas of other philosophers, in particular Hegel, Fetchner and &lt;a href="https://standardebooks.org/ebooks/henri-bergson"&gt;Bergson&lt;/a&gt;. He finds much to like in each of the works he discusses but finds them all incomplete in some way.&lt;/p&gt;
+			&lt;p&gt;Originally delivered as the 1908 Hibbert Lectures, &lt;i&gt;A Pluralistic Universe&lt;/i&gt; provides an explanation of the philosophy known as “radical empiricism.” This theory rejects the certainty of the “absolute,” an academic theory that holds that all existence is only the observable part of an all-encompassing entity that governs every detail in universe. By contrast, radical empiricism contends that while such an absolute may be possible, it’s unprovable within the experiences of our finite lives, and so has little practical value.&lt;/p&gt;
+			&lt;p&gt;Much like the theories &lt;a href="https://standardebooks.org/ebooks/william-james"&gt;James&lt;/a&gt; describes in his landmark work &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/william-james/pragmatism"&gt;Pragmatism&lt;/a&gt;&lt;/i&gt;, radical empiricism evaluates the truth of a statement based on experiences and observations that we can actually have. This view doesn’t exclude religion, as religion can be directly experienced, even if people may differ on exactly what the experience is. Anything that can be experienced must, by definition, exist, and therefore can be analyzed using radical empiricism.&lt;/p&gt;
+			&lt;p&gt;When these lectures were given, the academic consensus was in favor of some version of the absolute. James spends much of the lectures discussing and critiquing the ideas of other philosophers, in particular Hegel, Fetchner, and &lt;a href="https://standardebooks.org/ebooks/henri-bergson"&gt;Bergson&lt;/a&gt;. He finds much to like in each of the works he discusses, but finds them all incomplete.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11984</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.191268</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">68270</meta>
+		<meta property="se:reading-ease.flesch">45.9</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-james_a-pluralistic-universe</meta>
 		<dc:creator id="author">William James</dc:creator>
 		<meta property="file-as" refines="#author">James, William</meta>
@@ -77,6 +77,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.robinwhittleton.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
