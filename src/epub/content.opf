@@ -43,7 +43,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11984</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.191268</dc:source>
-		<meta property="se:word-count">68270</meta>
+		<meta property="se:word-count">67889</meta>
 		<meta property="se:reading-ease.flesch">45.9</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-james_a-pluralistic-universe</meta>
 		<dc:creator id="author">William James</dc:creator>
